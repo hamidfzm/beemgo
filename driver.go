@@ -1,4 +1,4 @@
-package db
+package beemgo
 
 import "github.com/astaxie/beego"
 

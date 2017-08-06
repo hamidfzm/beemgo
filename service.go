@@ -1,4 +1,4 @@
-package db
+package beemgo
 
 import (
 	"gopkg.in/mgo.v2"
